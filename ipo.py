@@ -7,7 +7,7 @@ from pathlib import Path
 
 from todoist.api import TodoistAPI
 
-TODOIST_APIKEY = os.environ['TODOIST_APIKEY']
+TODOIST_APIKEY = '00e87e46cd9aad7432a0d3ef988523bb4c56dcc7'
 current_dir = Path(__file__).parent.resolve()
 SAVED_DATA_PATH = current_dir / 'ipo.json'
 INVESTMENT_SECTION_ID = 25482920
