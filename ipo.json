@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Green Ventures Limited",
+    "start_date": "2022-03-22",
+    "end_date": "2022-03-25",
+    "share_type": "IPO:31,25,000.00 units"
+  },
+  {
     "company_name": "NESDO Sambridha laghubitta Bittiya Sanstha Limited",
     "start_date": "2022-02-23",
     "end_date": "2022-02-27",
@@ -112,11 +118,5 @@
     "start_date": "2021-05-04",
     "end_date": "2021-05-20",
     "share_type": "IPO for Locals:42,00,000 Units"
-  },
-  {
-    "company_name": "CEDB Hydropower Development Company Limited",
-    "start_date": "2021-04-30",
-    "end_date": "2021-05-04",
-    "share_type": "IPO:23,41,954 Units"
   }
 ]
