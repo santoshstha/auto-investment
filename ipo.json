@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Balephi Hydropwer Limited",
+    "start_date": "2022-03-30",
+    "end_date": "2022-04-04",
+    "share_type": "IPO:1,827,970.00 units"
+  },
+  {
     "company_name": "Green Ventures Limited",
     "start_date": "2022-03-22",
     "end_date": "2022-03-25",
@@ -112,11 +118,5 @@
     "start_date": "2021-06-25",
     "end_date": "2021-06-29",
     "share_type": "IPO:18,48,015 Units"
-  },
-  {
-    "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
-    "start_date": "2021-05-04",
-    "end_date": "2021-05-20",
-    "share_type": "IPO for Locals:42,00,000 Units"
   }
 ]
