@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
+    "start_date": "2022-04-15",
+    "end_date": "2022-04-19",
+    "share_type": "IPO: 3,95,336.00 units"
+  },
+  {
     "company_name": "River Falls Power Limited",
     "start_date": "2022-04-10",
     "end_date": "2022-04-24",
@@ -106,12 +112,6 @@
     "start_date": "2021-07-29",
     "end_date": "2021-08-02",
     "share_type": "IPO:6,84,746 Units"
-  },
-  {
-    "company_name": "Terhathum Power Company Limited",
-    "start_date": "2021-07-20",
-    "end_date": "2021-08-03",
-    "share_type": "IPO for Locals:4,00,000 Units"
   },
   {
     "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
