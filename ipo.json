@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Bindyabasini Hydropower Development Company Limited",
+    "start_date": "2022-04-24",
+    "end_date": "2022-05-08",
+    "share_type": "IPO:10,00,000.00 units"
+  },
+  {
     "company_name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
     "start_date": "2022-04-15",
     "end_date": "2022-04-19",
@@ -112,11 +118,5 @@
     "start_date": "2021-07-29",
     "end_date": "2021-08-02",
     "share_type": "IPO:6,84,746 Units"
-  },
-  {
-    "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
-    "start_date": "2021-07-20",
-    "end_date": "2021-08-16",
-    "share_type": "IPO for Locals:60,00,000 Units"
   }
 ]
