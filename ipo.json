@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Dordi Khola Jalvidyut Company Limited",
+    "start_date": "2022-04-26",
+    "end_date": "2022-05-10",
+    "share_type": "IPO: 10,54,260.00 units"
+  },
+  {
     "company_name": "Bindyabasini Hydropower Development Company Limited",
     "start_date": "2022-04-24",
     "end_date": "2022-05-08",
@@ -112,11 +118,5 @@
     "start_date": "2021-08-04",
     "end_date": "2021-08-08",
     "share_type": "IPO:54,00,000 Units"
-  },
-  {
-    "company_name": "Mailung Khola Jalvidhyut Company Limited",
-    "start_date": "2021-07-29",
-    "end_date": "2021-08-02",
-    "share_type": "IPO:6,84,746 Units"
   }
 ]
