@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Himalayan Hydropower Limited",
+    "start_date": "2022-05-08",
+    "end_date": "2022-05-22",
+    "share_type": "IPO:9,00,000.00 units."
+  },
+  {
     "company_name": "Upper Solu Hydro Electric Company Limited",
     "start_date": "2022-05-05",
     "end_date": "2022-05-19",
@@ -112,11 +118,5 @@
     "start_date": "2021-08-17",
     "end_date": "2021-08-31",
     "share_type": "IPO:15,00,000 Units"
-  },
-  {
-    "company_name": "Sahas Urja Limited",
-    "start_date": "2021-08-13",
-    "end_date": "2021-08-27",
-    "share_type": "IPO for Locals:35,00,000 Units"
   }
 ]
