@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Upper Hewakhola Hydropower Company Limited",
+    "start_date": "2022-05-24",
+    "end_date": "2022-06-07",
+    "share_type": "IPO:5,00,000.00 Units"
+  },
+  {
     "company_name": "River Falls Power Limited",
     "start_date": "2022-05-11",
     "end_date": "2022-05-18",
@@ -112,11 +118,5 @@
     "start_date": "2021-09-03",
     "end_date": "2021-09-17",
     "share_type": "IPO for Locals:5,00,000 Units"
-  },
-  {
-    "company_name": "Terhathum Power Company Limited",
-    "start_date": "2021-08-25",
-    "end_date": "2021-08-29",
-    "share_type": "IPO:7,44,000 Units"
   }
 ]
