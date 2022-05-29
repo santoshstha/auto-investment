@@ -6,6 +6,12 @@
     "share_type": "IPO:6,12,793.00 units"
   },
   {
+    "company_name": "Swet Ganga Hydropower & Construction Limited",
+    "start_date": "2022-06-06",
+    "end_date": "2022-06-20",
+    "share_type": "IPO:15,93,000.00 units"
+  },
+  {
     "company_name": "Bindyabasini Hydropower Development Company Limited",
     "start_date": "2022-06-03",
     "end_date": "2022-06-08",
@@ -112,11 +118,5 @@
     "start_date": "2021-10-06",
     "end_date": "2021-10-11",
     "share_type": "IPO:81,90,000 Units"
-  },
-  {
-    "company_name": "Nyadi Hydropower Limited",
-    "start_date": "2021-10-01",
-    "end_date": "2021-10-05",
-    "share_type": "IPO:20,92,500 Units"
   }
 ]
