@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Dordi Khola Jalvidyut Company Limited",
+    "start_date": "2022-06-09",
+    "end_date": "2022-06-14",
+    "share_type": "IPO:21,95,509.00 units"
+  },
+  {
     "company_name": "Rapti Hydro & General Construction Limited",
     "start_date": "2022-06-07",
     "end_date": "2022-06-21",
@@ -112,11 +118,5 @@
     "start_date": "2021-10-21",
     "end_date": "2021-10-25",
     "share_type": "IPO:6,78,900 Units"
-  },
-  {
-    "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
-    "start_date": "2021-10-06",
-    "end_date": "2021-10-11",
-    "share_type": "IPO:81,90,000 Units"
   }
 ]
