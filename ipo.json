@@ -1,5 +1,17 @@
 [
   {
+    "company_name": "Mandakini Hydropower Limited",
+    "start_date": "2022-06-15",
+    "end_date": "2022-06-29",
+    "share_type": "IPO:5,88,037.00 units"
+  },
+  {
+    "company_name": "Adarsha Laghubitta Bittiya Sanstha Limited",
+    "start_date": "2022-06-15",
+    "end_date": "2022-06-20",
+    "share_type": "IPO:67,000.00 units"
+  },
+  {
     "company_name": "Dordi Khola Jalvidyut Company Limited",
     "start_date": "2022-06-09",
     "end_date": "2022-06-14",
@@ -106,17 +118,5 @@
     "start_date": "2022-02-10",
     "end_date": "2022-03-10",
     "share_type": "IPO: 18,27,970 Units"
-  },
-  {
-    "company_name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited",
-    "start_date": "2022-02-04",
-    "end_date": "2022-02-08",
-    "share_type": "IPO:5,22,000 Units"
-  },
-  {
-    "company_name": "Samling Power Company Limited",
-    "start_date": "2021-10-21",
-    "end_date": "2021-10-25",
-    "share_type": "IPO:6,78,900 Units"
   }
 ]
