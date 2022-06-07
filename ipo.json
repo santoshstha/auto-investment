@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Sayapatri Hydropower Limited",
+    "start_date": "2022-06-16",
+    "end_date": "2022-06-30",
+    "share_type": "IPO:3,00,000 units"
+  },
+  {
     "company_name": "Mandakini Hydropower Limited",
     "start_date": "2022-06-15",
     "end_date": "2022-06-29",
@@ -112,11 +118,5 @@
     "start_date": "2022-02-14",
     "end_date": "2022-02-28",
     "share_type": "IPO for locals-31,25,000 units"
-  },
-  {
-    "company_name": "Balephi Hydropwer Limited",
-    "start_date": "2022-02-10",
-    "end_date": "2022-03-10",
-    "share_type": "IPO: 18,27,970 Units"
   }
 ]
