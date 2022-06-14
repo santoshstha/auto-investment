@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Peoples Power Limited",
+    "start_date": "2022-06-22",
+    "end_date": "2022-07-06",
+    "share_type": "IPO:6,32,600.00 Units"
+  },
+  {
     "company_name": "Sayapatri Hydropower Limited",
     "start_date": "2022-06-16",
     "end_date": "2022-06-30",
@@ -112,11 +118,5 @@
     "start_date": "2022-02-23",
     "end_date": "2022-02-27",
     "share_type": "IPO:8,28,750.00 units"
-  },
-  {
-    "company_name": "Green Ventures Limited",
-    "start_date": "2022-02-14",
-    "end_date": "2022-02-28",
-    "share_type": "IPO for locals-31,25,000 units"
   }
 ]
