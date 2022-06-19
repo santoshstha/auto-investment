@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Rasuwagadhi Hydropower Company Limited",
+    "start_date": "2022-06-27",
+    "end_date": "2022-07-11",
+    "share_type": "IPO for Locals:68,42,100 Units"
+  },
+  {
     "company_name": "Peoples Power Limited",
     "start_date": "2022-06-22",
     "end_date": "2022-07-06",
@@ -112,11 +118,5 @@
     "start_date": "2022-03-22",
     "end_date": "2022-03-25",
     "share_type": "IPO:31,25,000.00 units"
-  },
-  {
-    "company_name": "NESDO Sambridha laghubitta Bittiya Sanstha Limited",
-    "start_date": "2022-02-23",
-    "end_date": "2022-02-27",
-    "share_type": "IPO:8,28,750.00 units"
   }
 ]
