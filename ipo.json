@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Himalayan Hydropower Limited",
+    "start_date": "2022-06-29",
+    "end_date": "2022-07-03",
+    "share_type": "IPO:19,68,250.00 Units"
+  },
+  {
     "company_name": "Rasuwagadhi Hydropower Company Limited",
     "start_date": "2022-06-27",
     "end_date": "2022-07-11",
@@ -112,11 +118,5 @@
     "start_date": "2022-03-30",
     "end_date": "2022-04-04",
     "share_type": "IPO:1,827,970.00 units"
-  },
-  {
-    "company_name": "Green Ventures Limited",
-    "start_date": "2022-03-22",
-    "end_date": "2022-03-25",
-    "share_type": "IPO:31,25,000.00 units"
   }
 ]
