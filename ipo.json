@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Upper Solu Hydro Electric Company Limited",
+    "start_date": "2022-07-04",
+    "end_date": "2022-07-07",
+    "share_type": "IPO:19,57,500.00 units"
+  },
+  {
     "company_name": "Himalayan Hydropower Limited",
     "start_date": "2022-06-29",
     "end_date": "2022-07-03",
@@ -112,11 +118,5 @@
     "start_date": "2022-04-08",
     "end_date": "2022-04-13",
     "share_type": "IPO:2,36,250.00 units"
-  },
-  {
-    "company_name": "Balephi Hydropwer Limited",
-    "start_date": "2022-03-30",
-    "end_date": "2022-04-04",
-    "share_type": "IPO:1,827,970.00 units"
   }
 ]
