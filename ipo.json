@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Rapti Hydro & General Construction Limited",
+    "start_date": "2022-07-13",
+    "end_date": "2022-07-17",
+    "share_type": "IPO:23,66,240.00 units"
+  },
+  {
     "company_name": "Upper Hewakhola Hydropower Company Limited",
     "start_date": "2022-07-08",
     "end_date": "2022-07-12",
@@ -32,7 +38,7 @@
   {
     "company_name": "Sayapatri Hydropower Limited",
     "start_date": "2022-06-16",
-    "end_date": "2022-06-30",
+    "end_date": "2022-07-08",
     "share_type": "IPO:3,00,000 units"
   },
   {
@@ -112,11 +118,5 @@
     "start_date": "2022-04-15",
     "end_date": "2022-04-19",
     "share_type": "IPO: 3,95,336.00 units"
-  },
-  {
-    "company_name": "River Falls Power Limited",
-    "start_date": "2022-04-10",
-    "end_date": "2022-04-24",
-    "share_type": "IPO:7,00,000.00 units"
   }
 ]
