@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Swet Ganga Hydropower & Construction Limited",
+    "start_date": "2022-07-20",
+    "end_date": "2022-07-24",
+    "share_type": "IPO:23,89,500.00 units"
+  },
+  {
     "company_name": "Rapti Hydro & General Construction Limited",
     "start_date": "2022-07-13",
     "end_date": "2022-07-17",
@@ -112,11 +118,5 @@
     "start_date": "2022-04-24",
     "end_date": "2022-05-08",
     "share_type": "IPO:10,00,000.00 units"
-  },
-  {
-    "company_name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
-    "start_date": "2022-04-15",
-    "end_date": "2022-04-19",
-    "share_type": "IPO: 3,95,336.00 units"
   }
 ]
