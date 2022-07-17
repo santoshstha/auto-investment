@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Mandakini Hydropower Limited",
+    "start_date": "2022-07-25",
+    "end_date": "2022-07-28",
+    "share_type": "IPO:11,76,073.00 units"
+  },
+  {
     "company_name": "Sikles Hydropower Limited",
     "start_date": "2022-07-22",
     "end_date": "2022-08-05",
@@ -112,11 +118,5 @@
     "start_date": "2022-05-05",
     "end_date": "2022-05-19",
     "share_type": "IPO:13,50,000.00 units"
-  },
-  {
-    "company_name": "Dordi Khola Jalvidyut Company Limited",
-    "start_date": "2022-04-26",
-    "end_date": "2022-05-10",
-    "share_type": "IPO: 10,54,260.00 units"
   }
 ]
