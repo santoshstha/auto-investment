@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Aviyan Laghubitta Bittiya Sanstha Limited",
+    "start_date": "2022-08-03",
+    "end_date": "2022-08-07",
+    "share_type": "IPO:9,75,000.00 Units"
+  },
+  {
     "company_name": "Sayapatri Hydropower Limited",
     "start_date": "2022-07-29",
     "end_date": "2022-08-02",
@@ -112,11 +118,5 @@
     "start_date": "2022-05-11",
     "end_date": "2022-05-18",
     "share_type": "IPO:27,30,000.00 units"
-  },
-  {
-    "company_name": "Himalayan Hydropower Limited",
-    "start_date": "2022-05-08",
-    "end_date": "2022-05-22",
-    "share_type": "IPO:9,00,000.00 units."
   }
 ]
