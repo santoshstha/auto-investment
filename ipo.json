@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Shrijanshil Laghubiita Bittiya Sanstha Limited",
+    "start_date": "2022-08-31",
+    "end_date": "2022-09-04",
+    "share_type": "IPO:3,93,750.00 units"
+  },
+  {
     "company_name": "Khaptad Laghubitta Bittiya Sanstha Limited",
     "start_date": "2022-08-24",
     "end_date": "2022-08-28",
@@ -112,11 +118,5 @@
     "start_date": "2022-06-15",
     "end_date": "2022-06-20",
     "share_type": "IPO:67,000.00 units"
-  },
-  {
-    "company_name": "Dordi Khola Jalvidyut Company Limited",
-    "start_date": "2022-06-09",
-    "end_date": "2022-06-14",
-    "share_type": "IPO:21,95,509.00 units"
   }
 ]
