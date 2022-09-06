@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Sikles Hydropower Limited",
+    "start_date": "2022-09-14",
+    "end_date": "2022-09-18",
+    "share_type": "IPO:11,50,000.00 units"
+  },
+  {
     "company_name": "Shrijanshil Laghubiita Bittiya Sanstha Limited",
     "start_date": "2022-08-31",
     "end_date": "2022-09-04",
@@ -14,7 +20,7 @@
   {
     "company_name": "Eastern Hydropower Limited",
     "start_date": "2022-08-23",
-    "end_date": "2022-09-06",
+    "end_date": "2022-09-13",
     "share_type": "IPO For Local:6,20,000.00 units"
   },
   {
@@ -112,11 +118,5 @@
     "start_date": "2022-06-15",
     "end_date": "2022-07-06",
     "share_type": "IPO:5,88,037.00 units"
-  },
-  {
-    "company_name": "Adarsha Laghubitta Bittiya Sanstha Limited",
-    "start_date": "2022-06-15",
-    "end_date": "2022-06-20",
-    "share_type": "IPO:67,000.00 units"
   }
 ]
