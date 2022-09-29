@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Eastern Hydropower Limited",
+    "start_date": "2022-10-14",
+    "end_date": "2022-10-18",
+    "share_type": "IPO:6,70,310.00 Units"
+  },
+  {
     "company_name": "Peoples Hydropower Company Limited",
     "start_date": "2022-09-16",
     "end_date": "2022-09-30",
@@ -112,11 +118,5 @@
     "start_date": "2022-06-15",
     "end_date": "2022-06-20",
     "share_type": "IPO:67,000.00 units"
-  },
-  {
-    "company_name": "Rapti Hydro & General Construction Limited",
-    "start_date": "2022-06-07",
-    "end_date": "2022-06-21",
-    "share_type": "IPO:6,12,793.00 units"
   }
 ]
