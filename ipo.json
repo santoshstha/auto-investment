@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Barahi Hydropower Public Limited",
+    "start_date": "2022-10-21",
+    "end_date": "2022-11-04",
+    "share_type": "IPO for Locals:2,50,000.00 units"
+  },
+  {
     "company_name": "Eastern Hydropower Limited",
     "start_date": "2022-10-14",
     "end_date": "2022-10-18",
@@ -112,11 +118,5 @@
     "start_date": "2022-06-16",
     "end_date": "2022-07-08",
     "share_type": "IPO:3,00,000 units"
-  },
-  {
-    "company_name": "Adarsha Laghubitta Bittiya Sanstha Limited",
-    "start_date": "2022-06-15",
-    "end_date": "2022-06-20",
-    "share_type": "IPO:67,000.00 units"
   }
 ]
