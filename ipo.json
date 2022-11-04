@@ -1,8 +1,14 @@
 [
   {
+    "company_name": "Peoples Hydropower Company Limited",
+    "start_date": "2022-11-11",
+    "end_date": "2022-11-15",
+    "share_type": "IPO:56,06,390.00 units"
+  },
+  {
     "company_name": "Barahi Hydropower Public Limited",
     "start_date": "2022-10-21",
-    "end_date": "2022-11-04",
+    "end_date": "2022-11-11",
     "share_type": "IPO for Locals:2,50,000.00 units"
   },
   {
@@ -112,11 +118,5 @@
     "start_date": "2022-06-22",
     "end_date": "2022-07-21",
     "share_type": "IPO:6,32,600.00 Units"
-  },
-  {
-    "company_name": "Sayapatri Hydropower Limited",
-    "start_date": "2022-06-16",
-    "end_date": "2022-07-08",
-    "share_type": "IPO:3,00,000 units"
   }
 ]
