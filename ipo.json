@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Kalinchwok Darshan Limited",
+    "start_date": "2022-11-30",
+    "end_date": "2022-12-14",
+    "share_type": "Local IPO:12000000.00 units"
+  },
+  {
     "company_name": "Peoples Hydropower Company Limited",
     "start_date": "2022-11-11",
     "end_date": "2022-11-15",
@@ -112,11 +118,5 @@
     "start_date": "2022-06-27",
     "end_date": "2022-08-16",
     "share_type": "IPO for Locals: 6,842,100.00 units"
-  },
-  {
-    "company_name": "Peoples Power Limited",
-    "start_date": "2022-06-22",
-    "end_date": "2022-07-21",
-    "share_type": "IPO:6,32,600.00 Units"
   }
 ]
