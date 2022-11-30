@@ -1,9 +1,21 @@
 [
   {
+    "company_name": "Maya Khola Hydropower Company Limited",
+    "start_date": "2022-12-09",
+    "end_date": "2022-12-23",
+    "share_type": "Local IPO:10,00,000.00 Units,\nIPO to Nepalese Migrant Worker:2,40,000.00 Units"
+  },
+  {
+    "company_name": "Super Mai Hydropower Public Limited",
+    "start_date": "2022-12-07",
+    "end_date": "2022-12-21",
+    "share_type": "Local IPO:10,00,000.00 Units,\nIPO to Nepalese Migrant worker:50,000 units"
+  },
+  {
     "company_name": "Kalinchwok Darshan Limited",
     "start_date": "2022-11-30",
     "end_date": "2022-12-14",
-    "share_type": "Local IPO:12000000.00 units"
+    "share_type": "Local IPO:1,20,000.00 Units,\nIPO to Nepalese migrant Worker:1,08,000.00 units"
   },
   {
     "company_name": "Peoples Hydropower Company Limited",
@@ -106,17 +118,5 @@
     "start_date": "2022-07-08",
     "end_date": "2022-07-12",
     "share_type": "IPO:15,00,000.00 units"
-  },
-  {
-    "company_name": "Himalayan Hydropower Limited",
-    "start_date": "2022-06-29",
-    "end_date": "2022-07-03",
-    "share_type": "IPO:19,68,250.00 Units"
-  },
-  {
-    "company_name": "Rasuwagadhi Hydropower Company Limited",
-    "start_date": "2022-06-27",
-    "end_date": "2022-08-16",
-    "share_type": "IPO for Locals: 6,842,100.00 units"
   }
 ]
